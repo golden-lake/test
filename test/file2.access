@@ -13,7 +13,9 @@
     "587kytrcwzWGWUFYrKlaEQ==",
     {
       "email": "587kytrcwzWGWUFYrKlaEQ==",
-      "roles": [],
+      "roles": [
+        "USER"
+      ],
       "tokenHash": "CubjdbQzj0lB8qG0NO34labHGDH7jJ64Vnn5inWWj28="
     }
   ]
