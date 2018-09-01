@@ -3,7 +3,9 @@
     "C8QVzxuNeF3FdmK6sgNb4A==",
     {
       "email": "C8QVzxuNeF3FdmK6sgNb4A==",
-      "roles": [],
+      "roles": [
+        "ADMIN"
+      ],
       "tokenHash": "N0yJIVYscOMWp0zOZQ0eE+LOpDJgE+4wXBHns5JQ3Nw="
     }
   ]
