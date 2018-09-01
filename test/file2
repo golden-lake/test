@@ -1,0 +1,7 @@
+<a-entity id="1.a">
+  <a-entity id="2.a">
+    <a-entity id="3.a"/>
+    <a-entity id="3.b"/>
+  </a-entity>
+  <a-entity id="2.b"/>
+</a-entity>
